@@ -1,0 +1,9 @@
+.active{
+  color: red;
+}
+
+.section{
+
+  display: flex;
+  justify-content: space-around;
+}
